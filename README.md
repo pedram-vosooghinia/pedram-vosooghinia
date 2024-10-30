@@ -12,8 +12,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
- <a href="mailto:p.vosooghinia69@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&labelColor=f4f4f4&logo=gmail&logoColor=D14836"></a>
-
   <a href="https://t.me/@Vosooooooghi"><img
       src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&labelColor=f4f4f4&logo=telegram&logoColor=D14836&link=https://t.me/Vosooooooghi/"></a>
       <a href="mailto:p.vosooghinia69@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&labelColor=f4f4f4&logo=gmail&logoColor=D14836"></a>
