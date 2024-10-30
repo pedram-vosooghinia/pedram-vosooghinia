@@ -15,9 +15,9 @@
  
   <a href="https://t.me/@Vosooooooghi"><img
       src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&labelColor=f4f4f4&logo=telegram&logoColor=D14836&link=https://t.me/Vosooooooghi/"></a>
-  <a href="Pirouz.vn@gmail.com"><img
+  <a href="p.vosooghinia69@gmail.com"><img
       src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&labelColor=f4f4f4&logo=gmail&logoColor=D14836&link=mailto:p.vosooghinia69@gmail@gmail.com/"></a>
-  <a href="https://www.linkedin.com/in/mansour%D9%80vn/"><img
+  <a href="https://https://www.linkedin.com/in/pedram-vosooghinia-1b2418a0/"><img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=f4f4f4&logo=linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/erfan-malakouti/"></a>
 
 
